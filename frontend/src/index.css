@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  background: url(../public/bg.avif);
+  background: url(./chat.avif);
+  /* background-color: beige; */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
